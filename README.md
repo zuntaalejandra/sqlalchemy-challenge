@@ -1,7 +1,7 @@
 # sqlalchemy-challenge
 
 
-Welcome to the SQLAlchemy 's analysis based on 2 tables of data (Measurement and Station) from a BD accessed by sqlalchemy library.
+Welcome to the SQLAlchemy 's analysis based on 2 tables of data (Measurement and Station) from a BD accessed by commands of sqlalchemy library.
 
 
 # PART 1
@@ -56,7 +56,7 @@ Functionality
 
 See the API response in the next image:
 
-<p align="center"><img src="https://github.com/zuntaalejandra/sqlalchemy-challenge/blob/main/Images/stations_API.png" /></p>
+<p align="center"><img src="https://github.com/zuntaalejandra/sqlalchemy-challenge/blob/main/Images/tobs_API.png" /></p>
 
 
 
